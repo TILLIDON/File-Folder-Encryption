@@ -1,5 +1,5 @@
 # ==========================================
-# 🔐 SecureVault - File & Folder Encryption
+# File & Folder Encryption
 # Python Desktop Application Dependencies
 # ==========================================
 
@@ -8,6 +8,3 @@ cryptography==41.0.7
 
 # Build & Packaging Tool (For .exe compilation)
 pyinstaller>=6.0.0
-
-# Note: Tkinter is part of Python's standard library 
-    and does not need to be installed via pip.
