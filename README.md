@@ -33,7 +33,6 @@ File-Folder-Encryption/
 ├── dist/
 │   └── file-folder_encrypt.exe        # Main Executable File
 ├── file-folder_encrypt.py             # Main Application Code
-├── file-folder_encrypt.spec
 ├── README.md                          # Project Documentation
 └── LICENSE.md                         # Open-source License
 ```
