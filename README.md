@@ -34,7 +34,6 @@ File-Folder-Encryption/
 │   └── file-folder_encrypt.exe        # Main Executable File
 ├── file-folder_encrypt.py             # Main Application Code
 ├── file-folder_encrypt.spec
-├── requirements.txt                   # Pinned Dependencies
 ├── README.md                          # Project Documentation
 └── LICENSE.md                         # Open-source License
 ```
@@ -46,13 +45,9 @@ File-Folder-Encryption/
 git clone https://github.com/your-username/folder-encryption-app.git
 cd folder-encryption-app
 ```
-2. **Install dependencies:**
 
-```Bash
-pip install -r requirements.txt
-```
 
-3. **Run the application:**
+2. **Run the application:**
 
 ```Bash
 python folder_encrypt.py
